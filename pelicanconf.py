@@ -4,11 +4,12 @@ from __future__ import unicode_literals
 
 AUTHOR = u'xuhao'
 SITENAME = u'Run For Life'
+SITESUBTITLE = u'Random words in my brain'
 SITEURL = ''
 
 PATH = 'content'
 #STATIC_PATHS = ['images', 'figures', 'downloads', 'favicon.png']
-STATIC_PATHS = ['favicon.png', ]
+STATIC_PATHS = ['favicon.png', 'images']
 
 TIMEZONE = 'Asia/Harbin'
 
@@ -45,6 +46,12 @@ DEFAULT_PAGINATION = 10
 THEME = 'themes/pelican-octopress-theme'
 
 DISQUS_SITENAME = u'gotosk'
+
+SIDEBAR_IMAGE = u'images/linux-127x150.png'
+SIDEBAR_IMAGE_ALT = u'Hello!'
+#SIDEBAR_IMAGE_WIDTH = 
+
+FAVICON_FILENAME = u'images/favicon.png'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
