@@ -9,7 +9,7 @@ SITEURL = ''
 
 PATH = 'content'
 #STATIC_PATHS = ['images', 'figures', 'downloads', 'favicon.png']
-STATIC_PATHS = ['favicon.png', 'images']
+STATIC_PATHS = ['images',]
 
 TIMEZONE = 'Asia/Harbin'
 
