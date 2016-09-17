@@ -64,9 +64,9 @@ SOCIAL = (('Google+', 'http://plus.google.com/userid',
         )
 FAVICON = u'images/favicon.png'
 SKIP_DEFAULT_CSS = True
-STYLESHEET_URLS = ("//cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css", "//cdn.bootcss.com/font-awesome/4.4.0/css/font-awesome.min.css",)
+STYLESHEET_URLS = ("//cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css", "//cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css",)
 SKIP_DEFAULT_JS = True
-JAVASCRIPT_URLS = ("//cdn.bootcss.com/jquery/1.11.3/jquery.min.js", "//cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js",)
+JAVASCRIPT_URLS = ("//cdn.bootcss.com/jquery/1.12.4/jquery.min.js", "//cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js",)
 
 DISQUS_SITENAME = u'gotosk'
 
