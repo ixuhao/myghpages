@@ -20,3 +20,4 @@ zeal API 帮助
 
 [File Roller/Unzip 解压中文 Zip 文件名乱码](https://linuxtoy.org/archives/wrong-handling-of-chinese-coded-filename-in-fileroller-unzip.html)
 
+[同时装了Python3和Python2，怎么用pip？](https://www.zhihu.com/question/21653286)
